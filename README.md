@@ -2,8 +2,6 @@
 
 **NOTE:** Uses AstroNvim v4+
 
-A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
-
 ## Setup
 
 #### Make a backup of your current nvim and shared folder
