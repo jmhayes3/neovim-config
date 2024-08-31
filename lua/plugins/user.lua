@@ -15,14 +15,14 @@ return {
 
   -- == Examples of Overriding Plugins ==
 
-  {
-    "nvim-neo-tree/neo-tree.nvim",
-    opts = {
-      window = {
-        width = 22,
-      },
-    },
-  },
+  -- {
+  --   "nvim-neo-tree/neo-tree.nvim",
+  --   opts = {
+  --     window = {
+  --       width = 22,
+  --     },
+  --   },
+  -- },
 
   -- customize alpha options
   -- {
