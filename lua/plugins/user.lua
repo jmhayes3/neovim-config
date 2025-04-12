@@ -13,26 +13,11 @@ return {
   --   config = function() require("lsp_signature").setup() end,
   -- },
 
-  {
-    "rose-pine/neovim",
-    name = "rose-pine",
-  },
+  { "rose-pine/neovim", name = "rose-pine" },
 
-  {
-    "sainnhe/everforest",
-    name = "everforest",
-  },
+  { "sainnhe/everforest", name = "everforest" },
 
   -- == Examples of Overriding Plugins ==
-
-  {
-    "nvim-neo-tree/neo-tree.nvim",
-    opts = {
-      window = {
-        width = 22,
-      },
-    },
-  },
 
   -- customize alpha options
   -- {
